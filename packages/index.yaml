@@ -15,7 +15,7 @@ entries:
         - {}
       name: chronograf
       urls:
-        - chronograf-1.7.3.tgz
+        - https://github.com/bnayae/tick-charts/raw/repo/packages/chronograf-1.7.3.tgz
       version: 1.7.3
   influxdb:
     - created: 2018-11-17T12:38:01.8763071+02:00
@@ -33,7 +33,7 @@ entries:
       sources:
         - https://github.com/influxdata/influxdb
       urls:
-        - https://github.com/bnayae/tick-charts/blob/master/packages/influxdb-1.7.1.tgz?raw=true
+        - https://github.com/bnayae/tick-charts/raw/repo/packages/influxdb-1.7.1.tgz
       version: 1.7.1
   kapacitor:
     - created: 2018-11-17T12:38:01.8769296+02:00
@@ -54,7 +54,7 @@ entries:
       sources:
         - https://github.com/influxdata/kapacitor
       urls:
-        - kapacitor-1.5.1.tgz
+        - https://github.com/bnayae/tick-charts/raw/repo/packages/kapacitor-1.5.1.tgz
       version: 1.5.1
   telegraf-ds:
     - created: 2018-11-17T12:38:01.877927+02:00
@@ -73,7 +73,7 @@ entries:
         - {}
       name: telegraf-ds
       urls:
-        - telegraf-ds-1.8.3.tgz
+        - https://github.com/bnayae/tick-charts/raw/repo/packages/telegraf-ds-1.8.3.tgz
       version: 1.8.3
   telegraf-s:
     - created: 2018-11-17T12:38:01.877927+02:00
@@ -92,6 +92,6 @@ entries:
         - {}
       name: telegraf-s
       urls:
-        - telegraf-s-1.8.3.tgz
+        - https://github.com/bnayae/tick-charts/raw/repo/packages/telegraf-s-1.8.3.tgz
       version: 1.8.3
 generated: 2018-11-17T12:38:01.8752003+02:00
